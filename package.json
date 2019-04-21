@@ -1,19 +1,26 @@
 {
   "name": "repackerjs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Library for getting/cutting/copying Any strings(tags) from original HTML/JS/TS/CSS/SVG documents to any JS-based files and not only",
   "main": "index.ts",
   "author": "Sviatoslav Kuzhelev Front-End Dev <sviat770@gmail.com> <https://sviathuzh.top>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BiosBoy/html_files_parser.git"
+    "url": "git+https://github.com/BiosBoy/RepackerJS.git"
   },
   "keywords": [
     "html",
     "svg",
+    "css",
+    "sass",
+    "less",
     "parser",
-    "html-parser"
+    "html-parser",
+    "ts-parser",
+    "tsx-parser",
+    "js-parser",
+    "jsx-parser"
   ],
   "bugs": {
     "url": "https://github.com/BiosBoy/RepackerJS/issues"
