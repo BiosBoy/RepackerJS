@@ -8,6 +8,7 @@
 ![logo_image](https://github.com/BiosBoy/RepackerJS/blob/master/logo.png)
 
 
+
 ## How to use:
   #### 1. Grab RepackerJS package from `npm` by:
   ```
@@ -25,6 +26,13 @@
   ### Example:
     `yarn parse /Users/developer0ne/Desktop/ insert:/Users/developer0ne/project/fileTemplate.ts 'pattern:(<div.*?\/>)|(<span.*?\/>)' flags:im`
 
+### API
+  
+You can run the parser in a various ways, but I suppose most of all would like to run RepackerJS with custom flags anyway. Currently, it includes constants in case of non-provided during CLI run. Lets see what we can use among all them in CLI:
+  - `first argument flag` - aka your folder url. It must contain all files to process. Only this one flag is required.  
+  - `insert:` - enables custom ability to set template file to process parsed data from ogirinal one.
+  - `pattern:` - allow us to set custom regular expression to process the files data, by cutting data from original in various ways.
+  - `flags:` - custom flags for regular expression that makes all work for us. It's a very useful when we need to work with non-regular strings: different string-case, multy-strings, etc.). 
    ----
   ### *FAQ:*
    - What flags are reqired during CLI run?
