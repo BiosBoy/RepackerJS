@@ -1,6 +1,9 @@
 ## RepackerJS
 
 
+# Version 1.1.0
+ * Updated Readme file.
+
 # Version 1.0.2
  * Update keywords.
 
