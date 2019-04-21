@@ -1,5 +1,7 @@
 ## RepackerJS
 
+# Version 1.1.1
+ * Added Community docs.
 
 # Version 1.1.0
  * Updated Readme file.
