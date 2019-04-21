@@ -1,6 +1,6 @@
 {
   "name": "repackerjs",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Library for getting/cutting/copying Any strings(tags) from original HTML/JS/TS/CSS/SVG documents to any JS-based files and not only",
   "main": "index.ts",
   "author": "Sviatoslav Kuzhelev Front-End Dev <sviat770@gmail.com> <https://sviathuzh.top>",
@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@types/node": "^11.13.6",
-    "node": "^11.13.0"
+    "node": "^11.13.0",
+    "repackerjs": "^1.1.1"
   }
 }
