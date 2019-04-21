@@ -1,6 +1,6 @@
 {
   "name": "repackerjs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Library for getting/cutting/copying Any strings(tags) from original HTML/JS/TS/CSS/SVG documents to any JS-based files and not only",
   "main": "index.ts",
   "author": "Sviatoslav Kuzhelev Front-End Dev <sviat770@gmail.com> <https://sviathuzh.top>",
