@@ -1,5 +1,9 @@
 ## RepackerJS
 
+
+# Version 1.1.4
+ * Update Readme.
+
 # Version 1.1.3
  * Update Logo.
 
