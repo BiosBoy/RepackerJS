@@ -1,6 +1,9 @@
 ## RepackerJS
 
-# Version 1.1.1
+# Version 1.1.3
+ * Update Logo.
+
+# Version 1.1.2
  * Added Community docs.
 
 # Version 1.1.0
