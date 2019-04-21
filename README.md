@@ -3,7 +3,7 @@
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/BiosBoy/coconat/blob/master/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/BiosBoy/coconat/blob/master/LICENSE)
-[![GitHub package version](https://img.shields.io/badge/version-2.0.0-red.svg)](https://github.com/BiosBoy/coconat)
+[![GitHub package version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/BiosBoy/coconat)
 
 ![logo_image](https://github.com/BiosBoy/RepackerJS/blob/master/logo.png)
 
