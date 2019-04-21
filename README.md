@@ -7,12 +7,25 @@
 
 ![logo_image](https://github.com/BiosBoy/RepackerJS/blob/master/logo.png)
 
-How to use:
-  - Just go to the folder with HTML files to parse and run the CLI command then: `yarn parse {your_upload_path} {your_target_path} {pattern:some_pattern} {flags:some_flags}`.
 
-  Example:
-    `yarn parse full_path_from/folder_from_upload full_path_to/folder_to_upload 'pattern:(<div.*?\/>)|(<span.*?\/>)' flags:im`
+## How to use:
+  #### 1. Grab RepackerJS package from `npm` by:
+  ```
+         npm install repackerjs -g
+  ``` 
+   ----------or 
+  ```
+         yarn add repackerjs -g
+  ```
+  #### 2. Prepeare your files to parse in some folder: 
+   - For example: `/Users/developer0ne/Desktop/` .
+  #### 3. Run RepackerJS via CLI:
+  `npm run parse` or `yarn parse` with the next flags `{your_upload_path} {insert:your_path_to_file_template} {pattern:some_pattern_for_match} {flags:some_flags_for_match}`
 
-  FAQ:
-   - What flags are reqired here?
-   - Just only two: `folder_from_upload` and `folder_to_upload`, the last couple is non-required and can use constants inside.
+  ### Example:
+    `yarn parse /Users/developer0ne/Desktop/ insert:/Users/developer0ne/project/fileTemplate.ts 'pattern:(<div.*?\/>)|(<span.*?\/>)' flags:im`
+
+   ----
+  ### *FAQ:*
+   - What flags are reqired during CLI run?
+   -- Only the root path (files folder) is required for parsing. All other flags you can use on your own.
