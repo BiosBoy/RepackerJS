@@ -1,4 +1,4 @@
-# RepackerJS - Parse files on NodeJS easly!  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/BiosBoy/coconat&via=svyat770&hashtags=js,jsx,pareser,RepackerJS,html,css)
+# RepackerJS - Parse files on NodeJS easly!  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=You%20will%20never%20know%20how%20everything%20work%20but%20you%20should%20understand%20the%20system&url=https://github.com/BiosBoy/coconat&via=svyat770&hashtags=js,jsx,pareser,RepackerJS,html,css)
 ### Make file parsing with happy and fun!
 
 How to use:
