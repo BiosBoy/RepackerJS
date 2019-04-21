@@ -1,0 +1,7 @@
+{
+    "from": "/Users/sviatoslav/Desktop/",
+    "to": "/Users/sviatoslav/Desktop/",
+    "insert: "/Users/sviatoslav/Desktop/inser.ts",
+    "pattern": "(<path.*?/>)|(<polygon.*?/>)",
+    "flags": "i"
+}
