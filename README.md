@@ -1,4 +1,6 @@
 # RepackerJS
+# RepackerJS - Parse files on NodeJS easly!  [![Tweet](https://github.com/BiosBoy/coconat&via=svyat770&hashtags=js,jsx,pareser,RepackerJS,html,css)
+### Make file parsing with happy and fun!
 
 How to use:
   - Just go to the folder with HTML files to parse and run the CLI command then: `yarn parse {your_upload_path} {your_target_path} {pattern:some_pattern} {flags:some_flags}`.
