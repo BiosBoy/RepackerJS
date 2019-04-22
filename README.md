@@ -4,7 +4,7 @@
 [![npm](https://badgen.net/npm/v/repackerjs)](https://www.npmjs.com/package/repackerjs)
 [![Price](https://img.shields.io/badge/price-FREE-purple.svg)](https://github.com/BiosBoy/coconat/blob/master/LICENSE)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/BiosBoy/coconat/blob/master/LICENSE)
-[![GitHub package version](https://img.shields.io/badge/version-1.1.5-green.svg)](https://github.com/BiosBoy/coconat)
+[![GitHub package version](https://img.shields.io/badge/version-1.1.7-green.svg)](https://github.com/BiosBoy/coconat)
 
 ![logo_image](https://raw.githubusercontent.com/BiosBoy/RepackerJS/master/logo.png)
 
@@ -22,10 +22,10 @@
   #### 2. Prepeare your files to parse in some folder: 
    - For example: `/Users/developer0ne/Desktop/` .
   #### 3. Run RepackerJS via CLI:
-  `npm run parse` or `yarn parse` with the next flags `{your_upload_path} {insert:your_path_to_file_template} {pattern:some_pattern_for_match} {flags:some_flags_for_match}`
+  `npm run repackerjs` or `yarn repackerjs` with the next flags `{your_upload_path} {insert:your_path_to_file_template} {pattern:some_pattern_for_match} {flags:some_flags_for_match}`
 
   ### Example:
-    `yarn parse /Users/developer0ne/Desktop/ insert:/Users/developer0ne/project/fileTemplate.ts 'pattern:(<div.*?\/>)|(<span.*?\/>)' flags:im`
+    `yarn repackerjs /Users/developer0ne/Desktop/ insert:/Users/developer0ne/project/fileTemplate.ts 'pattern:(<div.*?\/>)|(<span.*?\/>)' flags:im`
 
 ### API
   

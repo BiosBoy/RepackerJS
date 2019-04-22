@@ -1,6 +1,12 @@
 ## RepackerJS
 
 
+# Version 1.1.7
+ * Update docs.
+
+# Version 1.1.6
+ * Update CLI.
+
 # Version 1.1.5
  * Update bin package.
 
