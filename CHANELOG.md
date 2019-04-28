@@ -1,6 +1,9 @@
 ## RepackerJS
 
 
+# Version 1.1.8
+ * Update docs.
+
 # Version 1.1.7
  * Update docs.
 
