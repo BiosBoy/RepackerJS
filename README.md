@@ -29,6 +29,8 @@
     
 ![RepackerJS Example](https://raw.githubusercontent.com/BiosBoy/RepackerJS/master/Exemple.gif)
 
+Here you can see how easily we can grab some inner data from the large pack of the SVG icons. Then we put founded by regular expression in data from the document by `pattern:` and `flags` CLI flags inside new one file. AS you see we made it recursively for all files in the folder without any efforts or tears! It's so easy and fun to use. So what are you waiting for? Enjoy it! :)
+
 ### API
   
 You can run the parser in a various ways, but I suppose most of all would like to run RepackerJS with custom flags anyway. Currently, it includes constants in case of non-provided during CLI run. Lets see what we can use among all them in CLI:
