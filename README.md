@@ -27,7 +27,7 @@
   ### Example:
     `yarn repackerjs /Users/developer0ne/Desktop/ insert:/Users/developer0ne/project/fileTemplate.ts 'pattern:(<div.*?\/>)|(<span.*?\/>)' flags:im`
     
-    ![RepackerJS Example](https://raw.githubusercontent.com/BiosBoy/RepackerJS/master/Exemple.gif)
+![RepackerJS Example](https://raw.githubusercontent.com/BiosBoy/RepackerJS/master/Exemple.gif)
 
 ### API
   
