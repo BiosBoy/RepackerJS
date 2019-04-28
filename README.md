@@ -9,6 +9,8 @@
 ![logo_image](https://raw.githubusercontent.com/BiosBoy/RepackerJS/master/logo.png)
 
 
+## Motivation
+ Every one of use doesn't like to do/repeat routine tasks. Especially in case of a data transferring for a large pack of files. If this is so boring for you too (as for me) this is what you need! With **RepackerJS** you'll have an opportunity to cut/get any data from the file and insert it inside another one in a few clicks by just CLI command. The most interesting that you can use it for a large pack of the files without recursively! For more info check out the example below, please.
 
 ## How to use:
   #### 1. Grab RepackerJS package from `npm` by:
